@@ -14,3 +14,5 @@ Simple Batch File Renaming Script for the Plunet BusinessManager ApplicationMana
 
 ## LICENSE
 Distributed under the MIT License. See LICENSE for more information.
+
+Warum können Geister so schlecht lügen? Weil man durch sie hindurchsieht.
